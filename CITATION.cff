@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "Simulation code for: Bayesian Latent Class Approach for Causal Estimation with Multiple Outcomes"
+type: software
+authors:
+  - family-names: Peng
+    given-names: Yiming (Emmett)
+  - family-names: Lu
+    given-names: Zihang
+  - family-names: Anderson
+    given-names: Geoffrey M.
+  - family-names: Liu
+    given-names: Kuan
+repository-code: "https://github.com/Emmett-Peng/BayesianLatentClassCausalOutcome"
+license: MIT
+keywords:
+  - Bayesian causal inference
+  - latent class analysis
+  - g-computation
+  - simulation study
