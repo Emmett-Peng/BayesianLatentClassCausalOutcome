@@ -2,7 +2,7 @@
 
 R code and simulation results for estimating causal effects on latent class membership with a fully Bayesian joint latent class model and posterior predictive standardization (Bayesian g-computation).
 
-**Citation.** Peng Y, Lu Z, Anderson GM, Liu K. *Bayesian Latent Class Approach for Causal Estimation with Multiple Outcomes.* Manuscript submitted to *Statistical Methods in Medical Research*.
+**Citation.** Peng YE, Lu Z, Anderson GM, Liu K. *Bayesian Latent Class Approach for Causal Estimation with Multiple Outcomes.* Manuscript submitted to *Statistical Methods in Medical Research*.
 
 ## Files
 
